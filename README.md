@@ -7,7 +7,7 @@ but I dedicate most of my time on studying the fundamentals to develop high qual
 
 - 💞️ I’m looking to collaborate on machine learning and web development projects. 
 
-- 📫 You can follow me on twitter at @cemar.ortiz and you can send me an email at cemar.ortiz@gmail.com 
+- 📫 You can follow me on twitter as @cemar_ortiz and you can send me an email at cemar.ortiz@gmail.com 
 
 <!---
 cemar-ortiz/cemar-ortiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
