@@ -1,10 +1,6 @@
 - 👋 Hi, I’m César Martinez
 
-- 👀 I’m interested in building software solutions for problems in areas such as banking, finance and marketing. Currently I'm working at an IT consulting firm using python to develop APIs interfacing with machine learning cloud services.
-
-- 🌱 I’m currently studying design and architecture patterns, TDD, DDD, algorithms and data structures (among other things). I generally try  to stay updated on the latest technologies, **but** I dedicate most of my time on studying the fundamentals to develop high quality software. 
-
-- 💞️ I’m currently quite booked on professional projects but if you need mentorship for making a career switch into IT/Data Science feel free to reach out. 
+- 👀 I’m interested in building software solutions for problems in areas such as banking, healthcare and aeronautics. I'm also an aspiring jazz musician and game dev in my free time. A total beginner at both.
 
 - 📫 You can follow me on twitter as @cemar_ortiz and you can send me an email at cemar.ortiz@gmail.com 
 
